@@ -8,7 +8,6 @@ const Description = () => {
 
 
 const App = () => {
-  console.log('Hello from component')
   return(
     <div className="App">
     <Mensaje color="red" message="Estamos trabajando"/>
